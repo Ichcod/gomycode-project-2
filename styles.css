@@ -1,0 +1,9 @@
+nav {
+    display: inline;
+    font-family: roboto;
+    background-color: coral;
+}
+.navbar a{
+    padding: 10px;
+    margin-right: 20px;
+}
